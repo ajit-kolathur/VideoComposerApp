@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/VideoComposerApp/ffmpeg.exe
+/VideoComposerApp/ffplay.exe
+/VideoComposerApp/ffprobe.exe
+/VideoComposerApp/ffmpeg.exe
+/VideoComposerApp/ffplay.exe
+/VideoComposerApp/ffprobe.exe
